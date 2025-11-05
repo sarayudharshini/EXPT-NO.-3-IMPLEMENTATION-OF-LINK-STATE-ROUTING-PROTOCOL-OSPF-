@@ -31,7 +31,9 @@ STEP 3: Connect all the PC Terminals and Routers through Switches as shown in th
 
 STEP 4: Configure IP address and Gateway in all PC Terminals.
 
-STEP 5: Configure Delhi router IP address, save configuration and restart Delhi router. STEP 6: Configure Chennai router IP address, save configuration and restart Chennai router. STEP 7: Check the connectivity between the computers in network.
+STEP 5: Configure Delhi router IP address, save configuration and restart Delhi router. STEP 6: Configure Chennai router IP address, save configuration and restart Chennai router. STEP 7: Check the connectivity 
+
+between the computers in network.
 
 STEP 6: Configure Chennai router IP address, save configuration and restart Chennai router. 
 
